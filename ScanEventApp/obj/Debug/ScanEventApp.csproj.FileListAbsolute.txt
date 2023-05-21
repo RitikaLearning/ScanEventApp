@@ -1,0 +1,5 @@
+D:\JsonServer\ScanEventApp\ScanEventApp\bin\Debug\ScanEventApp.exe.config
+D:\JsonServer\ScanEventApp\ScanEventApp\bin\Debug\ScanEventApp.exe
+D:\JsonServer\ScanEventApp\ScanEventApp\bin\Debug\ScanEventApp.pdb
+D:\JsonServer\ScanEventApp\ScanEventApp\obj\Debug\ScanEventApp.exe
+D:\JsonServer\ScanEventApp\ScanEventApp\obj\Debug\ScanEventApp.pdb
